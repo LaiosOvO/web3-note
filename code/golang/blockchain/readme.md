@@ -1,0 +1,1 @@
+[【区块链开发】使用 Golang 从零开始构建区块链（34小时超详细课程）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1hz42167qE/?spm_id_from=333.337.search-card.all.click&vd_source=2166a36dcade8440c470eb33877cf149)
